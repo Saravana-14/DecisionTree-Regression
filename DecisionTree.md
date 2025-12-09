@@ -1,0 +1,5 @@
+Tree-based ML Algorithm[Decision Tree works like a flowchart, splitting data into branches based on conditions to make predictions.]
+Easy to Understand & Interpret[It visualizes decision rules clearly, making the model highly interpretable compared to other ML algorithms.]
+Handles Both Types of Data[Decision Trees can be used for classification (categorical output) and regression (numerical output).]
+No Need for Feature Scaling[Unlike SVM or KNN, Decision Trees do not require normalization or standardization of data.]
+Prone to Overfitting[If the tree becomes too deep, it may overfit. Techniques like pruning help improve generalization.]
